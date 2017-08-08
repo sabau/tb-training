@@ -1,0 +1,14 @@
+{
+  "name": "@sabau/how-to-npm",
+  "version": "1.1.2",
+  "description": "hot to make a packeage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": "https://devlap.trueblue.it/karoly.szabo/tutorial/how-to-npm.git"
+}
